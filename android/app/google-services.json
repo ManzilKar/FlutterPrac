@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "70351070165",
+    "project_id": "online-grocery-app-c68b6",
+    "storage_bucket": "online-grocery-app-c68b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70351070165:android:79654ff380dfab0453135c",
+        "android_client_info": {
+          "package_name": "com.manjil.onlinegrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70351070165-4ega52c0n4a6b625igp6umgtbtal10ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19ENqPfA3fzvjNP0Z0Xy_irjWUezi64M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70351070165-4ega52c0n4a6b625igp6umgtbtal10ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70351070165-75jtjkifku43p05pads7f768qa766q0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newOnlineGroceryFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70351070165:android:946f58f6c579c90853135c",
+        "android_client_info": {
+          "package_name": "com.manjil.onlinegrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70351070165-4ega52c0n4a6b625igp6umgtbtal10ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19ENqPfA3fzvjNP0Z0Xy_irjWUezi64M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70351070165-4ega52c0n4a6b625igp6umgtbtal10ju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70351070165-75jtjkifku43p05pads7f768qa766q0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newOnlineGroceryFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
